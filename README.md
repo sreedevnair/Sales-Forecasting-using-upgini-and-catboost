@@ -1,6 +1,4 @@
-# Predicting Medical Insurance Cost
-
-In this project, we will try to predict the calories burnt by a person after doing some physical exercises. 
+# Predicting Sales using Upgini and CatBoost
 
 In this project, we will try to predict the total sales of a store using past 5 years of data.
 
