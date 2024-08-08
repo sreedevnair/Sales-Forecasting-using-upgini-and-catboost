@@ -56,4 +56,8 @@ The lower the **SMAPE**, the better the model did at predicting the data. In our
 
 <br>
 
+> This project was a complete walkthrough of this [tutorial](https://youtu.be/U9ReNx8E61g?si=nQgWuzpeozsO1_UE) by *Smitha Kolan - Machine Learning Engineer*.
+
+ <br>
+
 ---------
